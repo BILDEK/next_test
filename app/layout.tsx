@@ -1,6 +1,6 @@
 // app/layout.tsx
 import '@/app/ui/global.css';
-import { Inter, Lusitana } from 'next/font/google';
+import {  Lusitana } from 'next/font/google';
  
 //export const inter = Inter({ subsets: ['latin'] });
  

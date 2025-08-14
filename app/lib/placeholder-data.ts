@@ -1,4 +1,4 @@
-const users = [
+export const users = [
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
     name: 'Delba de Oliveira',
@@ -61,7 +61,7 @@ const users = [
   },
 ];
 
-const invoices = [
+export const invoices = [
   {
     customer_id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
     amount: 15000,
@@ -124,7 +124,7 @@ const invoices = [
   },
 ];
 
-const customers = [
+export const customers = [
   {
     id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
     name: 'Emil Kowalski',
@@ -187,7 +187,7 @@ const customers = [
   },
 ];
 
-const revenue = [
+export const revenue = [
   { month: 'Jan', revenue: 2000 },
   { month: 'Feb', revenue: 1800 },
   { month: 'Mar', revenue: 2200 },
